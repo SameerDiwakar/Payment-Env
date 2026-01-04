@@ -7,7 +7,7 @@
       }
     ]
   },
-  "include": [
+  "include": [    
     "**/*.ts",
     "**/*.tsx",
     "next-env.d.ts",
